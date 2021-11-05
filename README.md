@@ -19,7 +19,7 @@ I always enjoyed meeting the specific needs of my clients with the tools and tra
 
 ## Usage
 
-![Screenshot of portfolio](react-portfolio/src/assets/images/readme-pic.png)
+![Screenshot of portfolio](/src/assets/images/readme-pic.png)
 
 ## Technology
 
