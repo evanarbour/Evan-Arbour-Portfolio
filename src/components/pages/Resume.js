@@ -48,10 +48,32 @@ export default function Resume() {
                         </ul>
                         <div id="repoLinks" class="row d-flex justify-content-between">
                         <div class="col-sm text-center">
-                                <a href="www.google.com" target="_blank"><button type="button" class="repo-btn">Website</button></a>
+                                <a href="https://thawing-cliffs-62785.herokuapp.com/" target="_blank" rel="noreferrer"><button type="button" class="repo-btn">Website</button></a>
                             </div>
                             <div class="col-sm text-center">
-                                <a href="www.google.com" target="_blank"><button type="button" class="repo-btn">Github</button></a>
+                                <a href="https://github.com/evanarbour/book-search-engine" target="_blank" rel="noreferrer"><button type="button" class="repo-btn">Github</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Tracktion</h5>
+                        <p class="card-text">A MERN stack application that helps users create, save and update habits. Once logged in, they can view their habit consistency via a Dashboard.</p>
+                        <ul class="technologies">
+                            <li class="tech-used">React</li>
+                            <li class="tech-used">Redux</li>
+                            <li class="tech-used">Material UI</li>
+                            <li class="tech-used">MongoDB</li>
+                            <li class="tech-used">GraphQL</li>
+                            <li class="tech-used">Node.js</li>
+                        </ul>
+                        <div id="repoLinks" class="row d-flex justify-content-between">
+                        <div class="col-sm text-center">
+                                <a href="https://stark-hollows-90988.herokuapp.com/" target="_blank" rel="noreferrer"><button type="button" class="repo-btn">Website</button></a>
+                            </div>
+                            <div class="col-sm text-center">
+                                <a href="https://github.com/evanarbour/tracktion" target="_blank" rel="noreferrer"><button type="button" class="repo-btn">Github</button></a>
                             </div>
                         </div>
                     </div>
