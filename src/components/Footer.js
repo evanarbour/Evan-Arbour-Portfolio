@@ -15,13 +15,13 @@ function Footer () {
                                 <a class="social" href="mailto:evan.arbour@gmail.com"><BsEnvelope /></a>
                             </li>
                             <li>
-                                <a class="social" href="www.github.com/evanarbour"><BsGithub /></a>
+                                <a class="social" target="_blank" rel="noreferrer" href="https://www.github.com/evanarbour"><BsGithub /></a>
                             </li>
                             <li>
-                                <a class="social" href="www.linkedin.com/evanarbour"><BsLinkedin /></a>
+                                <a class="social" target="_blank" rel="noreferrer" href="https://www.linkedin.com/evanarbour"><BsLinkedin /></a>
                             </li>   
                             <li>
-                                <a class="social" href="www.instagram.com/evanarbour"><BsInstagram /></a>
+                                <a class="social" target="_blank" rel="noreferrer" href="https://www.instagram.com/evanarbour"><BsInstagram /></a>
                             </li>
                         </ul>
                     </div>
