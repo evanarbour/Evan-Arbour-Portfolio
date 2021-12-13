@@ -10,7 +10,7 @@ export default function Resume() {
 
       <div class="container">
         <div class="row">
-            <div class="col-lg-7 col-sm-12 order-1">
+            <div class="col-lg-7 col-sm-12 order-1 float-left">
                 <p>
                     Full stack web developer using background in performance and exercise
                     science to create responsive and meaningful user interactions. Earned 
